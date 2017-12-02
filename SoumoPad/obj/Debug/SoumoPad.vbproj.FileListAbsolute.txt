@@ -1,0 +1,10 @@
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\bin\Debug\SoumoPad.exe.config
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\bin\Debug\SoumoPad.exe
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\bin\Debug\SoumoPad.pdb
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\bin\Debug\SoumoPad.xml
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.Form1.resources
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.Resources.resources
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.vbproj.GenerateResource.Cache
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.exe
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.xml
+c:\users\soumodip\documents\visual studio 2012\Projects\SoumoPad\SoumoPad\obj\Debug\SoumoPad.pdb
