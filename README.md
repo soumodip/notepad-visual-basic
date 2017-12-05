@@ -4,3 +4,5 @@
 <hr/>
 <h3>Demo</h3>
 <img width="100%" src="http://res.cloudinary.com/soumodippaul/image/upload/v1512256417/notepad-visual-basic_yaommg.jpg"/>
+<hr/>
+<p>Developed by <a href="http://www.soumodippaul.com">Soumodip Paul</a></p>
